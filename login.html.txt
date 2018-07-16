@@ -1,9 +1,7 @@
 <html>
 <body>
 
-<h1>My First class</h1>
-<h2>for github practice </h2>
-<h3>create notes</h3>
+<h1>My first project</h1>
 
 
 </body>
